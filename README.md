@@ -18,3 +18,7 @@ Cuestionario para construir la serie de Reels de Instagram de **Esperanza Arcila
 Al final: guía corta para grabar con el celular y los Reels que saldrán de sus respuestas.
 
 El contenido completo está en `index.html`.
+
+## Envíos y pagos (para Esperanza)
+- Página: https://werockagencia.github.io/esperanza-arcila-contenidos/envios.html
+- Explica en lenguaje sencillo cómo funcionan los envíos en Colombia (tarifas actuales, paso a paso al recibir una venta, Mipaquete), los envíos al exterior (4-72 Exportafácil + enlace de pago Wompi), los pagos con Wompi y la lista de lo que falta para terminar la tienda.
